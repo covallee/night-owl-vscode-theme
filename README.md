@@ -56,6 +56,7 @@ The community is awesome and has ported this theme over to other environments
 - Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
 - Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
 - Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
+- Firefox [https://color.firefox.com/?theme=XQAAAAIAAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhPN6d7SE7z2OjHK0H9Rnfyo5oPtQIvukwPqprJY5var-5c0giH2ob5bIGd8nJQlQBjm9WbptC5tW1EMMRI7I4FceN7Ma2n9tqSs3v406FHNj_URa6NhbAx1F7ZcM1ZuXrsDgCkxQeAeg_jPgvfxBp7WYseivw_hgkF2O6xooBmRhek-M9b4r-XK0WrbJHrauH1A44BttPaYf-40ocA](https://color.firefox.com/?theme=XQAAAAIAAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhPN6d7SE7z2OjHK0H9Rnfyo5oPtQIvukwPqprJY5var-5c0giH2ob5bIGd8nJQlQBjm9WbptC5tW1EMMRI7I4FceN7Ma2n9tqSs3v406FHNj_URa6NhbAx1F7ZcM1ZuXrsDgCkxQeAeg_jPgvfxBp7WYseivw_hgkF2O6xooBmRhek-M9b4r-XK0WrbJHrauH1A44BttPaYf-40ocA)
 
 ## Separate the Editor from the Sidebar
 
